@@ -1,0 +1,20 @@
+<svg width="867" height="236" viewBox="0 0 867 236" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_160_1349" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="470" y="0" width="397" height="236">
+<rect width="397" height="236" transform="matrix(-1 0 0 1 867 0)" fill="#228ACB"/>
+</mask>
+<g mask="url(#mask0_160_1349)">
+<rect width="263.058" height="465.814" transform="matrix(-0.968955 0.247237 0.794063 0.607836 610.113 -78.2246)" fill="#24B7B1"/>
+</g>
+<mask id="mask1_160_1349" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="180" y="0" width="290" height="236">
+<rect width="290" height="236" transform="matrix(-1 0 0 1 470 0)" fill="#228ACB"/>
+</mask>
+<g mask="url(#mask1_160_1349)">
+<rect width="263.058" height="465.814" transform="matrix(-0.968955 0.247237 0.794063 0.607836 270.113 -78.2246)" fill="#24B7B1"/>
+</g>
+<mask id="mask2_160_1349" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-20" y="0" width="200" height="236">
+<rect width="200" height="236" transform="matrix(-1 0 0 1 180 0)" fill="#228ACB"/>
+</mask>
+<g mask="url(#mask2_160_1349)">
+<rect width="263.058" height="465.814" transform="matrix(-0.968955 0.247237 0.794063 0.607836 -69.8867 -78.2246)" fill="#24B7B1"/>
+</g>
+</svg>
